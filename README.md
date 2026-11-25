@@ -2,11 +2,13 @@
 
 Objetivo é re-criar de forma simples o Wordle no terminal da forma mais podre e horrenda possivel, fazendo o codigo mais nojento de "C++ moderno", usando todas as features preguentas, porcas, nojentas e desgraçadas da pior forma possivel sempre
 
-<img src="readme/print.png" width="300">
+<img src="readme/print.png" width="800">
 
 
-baseado nos projetos
+Baseado nos projetos:
+
 [NadolnyJoao/Wordle_in_C](https://github.com/NadolnyJoao/Wordle_in_C)
+
 [pedrovitor-fs/Wordle_in_CPP](https://github.com/pedrovitor-fs/Wordle_in_CPP)
 
 ## uso de ia:
@@ -31,7 +33,7 @@ g++ main.cpp -o main -std=c++23
 
 ### windows
 
-<img src="readme/compile_in_windows.jpg" width=300>
+<img src="readme/compile_in_windows.jpg" width=500>
 
 ### macos 
 
